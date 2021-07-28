@@ -6,40 +6,20 @@
   "background_color": "#ffffff",
   "theme_color": "#1a73e8",
   "description": "It's Apple OS is all about iPhone signed ipsw files, iOS Tools, Apps sale, news and tricks",
-  "icons": [{
-    "src": "https://3.bp.blogspot.com/-DSir6HiwQfw/XwytVC4ck6I/AAAAAAAAIxE/V-ZuQkV1xiIIx6k86kgGhGaJghoRN4zQgCK4BGAYYCw/s400/iaos36.png' rel='apple-touch-icon",
-    "sizes": "36x36",
-    "type": "image/png",
-    "density": "0.75"
-  }, {
-    "src": "https://4.bp.blogspot.com/-nHFPmQrIXYI/Xwyt--ee0qI/AAAAAAAAIxc/R87ZaYaB3kI3ZVOC-rIGY8A_B9WQn1shgCK4BGAYYCw/s1600/iaos48.png' rel='apple-touch-icon' rel='apple-touch-icon",
-    "sizes": "48x48",
-    "type": "image/png",
-    "density": "1.0"
-  }, {
-    "src": "https://3.bp.blogspot.com/-Y8jNmqbNYnk/XwyuQd3_mjI/AAAAAAAAIxs/aYyvMGtPxKY6WEdQoNHAiIdmCQmiIktmgCK4BGAYYCw/s400/iaos72.png' rel='apple-touch-icon",
-    "sizes": "72x72",
-    "type": "image/png",
-    "density": "1.5"
-  }, {
-    "src": "https://2.bp.blogspot.com/-KL2SO6g-RgA/XwyuY1EsGDI/AAAAAAAAIx0/iTNMvqhgaYsq-wLA7oqHkiQzViLyadVVwCK4BGAYYCw/s400/iaos96.png",
-    "sizes": "96x96",
-    "type": "image/png",
-    "density": "2.0"
-  }, {
-    "src": "https://3.bp.blogspot.com/-sSikLc2_6l0/XwyuubMHViI/AAAAAAAAIyE/djXoxzvwvlItooZU-VFZuh2NXtoMUWPXwCK4BGAYYCw/s1600/iaos144.png' rel='apple-touch-icon",
-    "sizes": "144x144",
-    "type": "image/png",
-    "density": "3.0"
-  }, {
-    "src": "https://1.bp.blogspot.com/-EwtxObb4h0o/Xwyu5OZmxEI/AAAAAAAAIyM/zLXmFx0fjoIiExohXlcCezvEjeJQgdH5ACK4BGAYYCw/s400/iaos192.png' rel='apple-touch-icon",
-    "sizes": "192x192",
-    "type": "image/png",
-    "density": "4.0"
-  }, {
-    "src": "https://2.bp.blogspot.com/--1e26_JpJBk/XwytK52kx4I/AAAAAAAAIw4/LXQDzsOOdWAr0JNo-5dtaA8ndDK7vbaggCK4BGAYYCw/s320/iaos512.png' rel='apple-touch-icon",
-    "sizes": "512x512",
-    "type": "image/png",
-    "density": "5.0"
-  }]
+  "icons": [
+   {"src": "https://3.bp.blogspot.com/-DSir6HiwQfw/XwytVC4ck6I/AAAAAAAAIxE/V-ZuQkV1xiIIx6k86kgGhGaJghoRN4zQgCK4BGAYYCw/s400/iaos36.png' rel='apple-touch-icon",
+    "sizes": "36x36",    "type": "image/png",    "density": "0.75"}, 
+   {"src": "https://4.bp.blogspot.com/-nHFPmQrIXYI/Xwyt--ee0qI/AAAAAAAAIxc/R87ZaYaB3kI3ZVOC-rIGY8A_B9WQn1shgCK4BGAYYCw/s1600/iaos48.png' rel='apple-touch-icon' rel='apple-touch-icon",
+    "sizes": "48x48",    "type": "image/png",    "density": "1.0"}, 
+   {"src": "https://3.bp.blogspot.com/-Y8jNmqbNYnk/XwyuQd3_mjI/AAAAAAAAIxs/aYyvMGtPxKY6WEdQoNHAiIdmCQmiIktmgCK4BGAYYCw/s400/iaos72.png' rel='apple-touch-icon",
+    "sizes": "72x72",    "type": "image/png",    "density": "1.5"}, 
+   {"src": "https://2.bp.blogspot.com/-KL2SO6g-RgA/XwyuY1EsGDI/AAAAAAAAIx0/iTNMvqhgaYsq-wLA7oqHkiQzViLyadVVwCK4BGAYYCw/s400/iaos96.png",
+    "sizes": "96x96",    "type": "image/png",    "density": "2.0"}, 
+   {"src": "https://3.bp.blogspot.com/-sSikLc2_6l0/XwyuubMHViI/AAAAAAAAIyE/djXoxzvwvlItooZU-VFZuh2NXtoMUWPXwCK4BGAYYCw/s1600/iaos144.png' rel='apple-touch-icon",
+    "sizes": "144x144",    "type": "image/png",    "density": "3.0"}, 
+   {"src": "https://1.bp.blogspot.com/-EwtxObb4h0o/Xwyu5OZmxEI/AAAAAAAAIyM/zLXmFx0fjoIiExohXlcCezvEjeJQgdH5ACK4BGAYYCw/s400/iaos192.png' rel='apple-touch-icon",
+    "sizes": "192x192",    "type": "image/png",    "density": "4.0"}, 
+   {"src": "https://2.bp.blogspot.com/--1e26_JpJBk/XwytK52kx4I/AAAAAAAAIw4/LXQDzsOOdWAr0JNo-5dtaA8ndDK7vbaggCK4BGAYYCw/s320/iaos512.png' rel='apple-touch-icon",
+    "sizes": "512x512",    "type": "image/png",    "density": "5.0"}
+  ]
 }
