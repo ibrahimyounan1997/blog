@@ -1,17 +1,9 @@
 {
-"short_name": "Blog - dicecca.net",
-"name": "dicecca.net - Blog",
-"icons": [
-{"src": "https://1.bp.blogspot.com/-EwtxObb4h0o/Xwyu5OZmxEI/AAAAAAAAIyM/zLXmFx0fjoIiExohXlcCezvEjeJQgdH5ACK4BGAYYCw/s57/iaos192.png", "type": "image / png", "sizes": "57x57"},
-{"src": "https://1.bp.blogspot.com/-EwtxObb4h0o/Xwyu5OZmxEI/AAAAAAAAIyM/zLXmFx0fjoIiExohXlcCezvEjeJQgdH5ACK4BGAYYCw/s96/iaos192.png", "type": "image / png", "sizes": "96x96"},
-{"src": "https://1.bp.blogspot.com/-EwtxObb4h0o/Xwyu5OZmxEI/AAAAAAAAIyM/zLXmFx0fjoIiExohXlcCezvEjeJQgdH5ACK4BGAYYCw/s144/iaos192.png", "type": "image / png", "sizes": "144x144"},
-{"src": "https://1.bp.blogspot.com/-EwtxObb4h0o/Xwyu5OZmxEI/AAAAAAAAIyM/zLXmFx0fjoIiExohXlcCezvEjeJQgdH5ACK4BGAYYCw/s192/iaos192.png", "type": "image / png", "sizes": "192x192"}
-],
-"start_url": "https://testing-bog-2.blogspot.com",
-"display": "fullscreen",
-"lang": "it-IT",
-"background_color": "#fff",
-"theme_color": "#fff",
-"orientation": "portrait-primary"
+  "background_color": "purple",
+  "description": "Shows random fox pictures. Hey, at least it isn't cats.",
+  "display": "fullscreen",
+  "icons": [{"src": "https://cdn.statically.io/gh/iniy3/pwa-examples/master/a2hs/icon/fox-icon.png", "sizes": "192x192", "type": "image/png"}],
+  "name": "Awesome fox pictures",
+  "short_name": "Foxes",
+  "start_url": "/pwa-examples/a2hs/index.html"
 }
-  
