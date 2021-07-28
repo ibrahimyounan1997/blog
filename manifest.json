@@ -1,1 +1,9 @@
-test
+{
+"background_color": "purple",
+"description": "Shows random fox pictures. Hey, at least it isn't cats.",
+"display": "fullscreen",
+"icons": [{"src": "https://avatars.githubusercontent.com/u/71520071?s=96&v=4", "sizes": "192x192", "type": "image/png"}],
+"name": "Awesome fox pictures",
+"short_name": "Foxes",
+"start_url": "/pwa-examples/a2hs/index.html"
+}
