@@ -9,7 +9,7 @@
 "display": "standalone",
 "orientation": "portrait-primary",
   
-"lang": "ar-EG"
+"lang": "ar-EG",
 "dir": "rtl",
 
 "background_color": "#fff",
@@ -27,6 +27,6 @@
 
 "screenshots": [
 {"src": "/src/images/icons/app-icon-48x48.png","type": "image/png", "sizes": "48x48/"},
-]
+],
 
 }
