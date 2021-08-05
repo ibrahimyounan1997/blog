@@ -5,7 +5,7 @@ const RUNTIME = 'runtime';
 
 // A list of local resources we always want to be cached.
 const PRECACHE_URLS = [
-  'https://eachers-archive.com/index.html',
+  'https://teachers-archive.com/index.html',
   'styles.css',
 ];
 
