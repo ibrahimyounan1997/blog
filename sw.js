@@ -5,8 +5,11 @@ const RUNTIME = 'runtime';
 
 // A list of local resources we always want to be cached.
 const PRECACHE_URLS = [
+  'https://testing-bog-1.blogspot.com',
   'https://testing-bog-1.blogspot.com/index.html',
-  'styles.css',
+  '*.js',
+  '*.css',
+  '*.img',
 ];
 
 self.addEventListener('install', event => { event.waitUntil(  caches.open(PRECACHE) .then(cache => cache.addAll(PRECACHE_URLS)) .then(self.skipWaiting()) );  });
