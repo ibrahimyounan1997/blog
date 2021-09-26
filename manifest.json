@@ -1,0 +1,28 @@
+{
+"start_url": "https://ibrahim-younan.blogspot.com/",
+"scope": "https://ibrahim-younan.blogspot.com/",
+  
+"name": "Instagram as Progressive Web App",
+"short_name": "Hima",
+"description": "HIMA website",
+  
+"display": "standalone",
+"orientation": "portrait-primary",
+  
+"lang": "ar-EG",
+"dir": "rtl",
+
+"background_color": "#fff",
+"theme_color": "#3f51b5",
+  
+"icons": [
+{"src": "https://lh3.googleusercontent.com/uiXSNPoLxHD9lI9mO6utnEIzkzOyXHPFmO-QEmkwWAHI-vn-s1dGk09mmkSdOrrnat7t9eztDk9XKLkfL9x21SlqOTjXfm8SpGAIEw=w45","type": "image/png", "sizes": "48x48/"}, 
+{"src": "https://lh3.googleusercontent.com/uiXSNPoLxHD9lI9mO6utnEIzkzOyXHPFmO-QEmkwWAHI-vn-s1dGk09mmkSdOrrnat7t9eztDk9XKLkfL9x21SlqOTjXfm8SpGAIEw=w96", "ype": "image/png","sizes": "96x96"},
+{"src": "https://lh3.googleusercontent.com/uiXSNPoLxHD9lI9mO6utnEIzkzOyXHPFmO-QEmkwWAHI-vn-s1dGk09mmkSdOrrnat7t9eztDk9XKLkfL9x21SlqOTjXfm8SpGAIEw=w144", "ype": "image/png", "sizes": "144x144"},
+{"src": "https://lh3.googleusercontent.com/uiXSNPoLxHD9lI9mO6utnEIzkzOyXHPFmO-QEmkwWAHI-vn-s1dGk09mmkSdOrrnat7t9eztDk9XKLkfL9x21SlqOTjXfm8SpGAIEw=w192", "ype": "image/png", "sizes": "192x192"}, 
+{"src": "https://lh3.googleusercontent.com/uiXSNPoLxHD9lI9mO6utnEIzkzOyXHPFmO-QEmkwWAHI-vn-s1dGk09mmkSdOrrnat7t9eztDk9XKLkfL9x21SlqOTjXfm8SpGAIEw=w256", "ype": "image/png", "sizes": "256x256"},
+{"src": "https://lh3.googleusercontent.com/uiXSNPoLxHD9lI9mO6utnEIzkzOyXHPFmO-QEmkwWAHI-vn-s1dGk09mmkSdOrrnat7t9eztDk9XKLkfL9x21SlqOTjXfm8SpGAIEw=w384", "ype": "image/png", "sizes": "384x384"}, 
+{"src": "https://lh3.googleusercontent.com/uiXSNPoLxHD9lI9mO6utnEIzkzOyXHPFmO-QEmkwWAHI-vn-s1dGk09mmkSdOrrnat7t9eztDk9XKLkfL9x21SlqOTjXfm8SpGAIEw=w512", "ype": "image/png", "sizes": "512x512"}
+],
+
+}
